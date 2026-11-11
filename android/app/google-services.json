@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003029035677",
+    "project_id": "lunchmate-a2f5e",
+    "storage_bucket": "lunchmate-a2f5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003029035677:android:313b048d65ec535a28b274",
+        "android_client_info": {
+          "package_name": "com.example.lunchmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsxWp89sp87rDV9qxqeFuccMzNlJxxAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
